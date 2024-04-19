@@ -1,2 +1,3 @@
 jupyter
 pip-audit
+kubernetes
